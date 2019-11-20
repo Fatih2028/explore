@@ -1,4 +1,5 @@
-name: CI/Rubocop
+Fatihkarahan 
+: CI/Rubocop
 
 on: [push, pull_request]
 
